@@ -46,23 +46,6 @@
 
 ---
 
-### 🚀 Projects
-  Below are some projects of mine which I have worked or am currently working on. Some of the projects including the deep learning model/browser are collaborative and private for now:
-
-
-
-- **Tundra Language**: A custom programming language built in Rust featuring a JIT backend and custom AST
-- **Privacy-Focused Browser**: A desktop browser leveraging Mozilla’s Gecko engine, engineered for privacy and performance.
-- **Minesweeper Encoder**: An innovative tool that encodes files into Minesweeper board states using Electron and TypeScript.
-- **ICU Mortality Prediction**: A deep learning model trained on MIMIC and eICU datasets to predict patient mortality in real time.
-- **Android Apps built on JetPack Compose with Modern MVVM Structure**: Notable apps include Synapse and a Fuzzy-GA Fitness Coach for Wear OS.
-- **CodeForces Editorial Extension**: An Extension for Chromium Browsers which formats and edits the editorial onto the problem page using Gemini to improve ease and understanding.
-- **Open Source Contributions**: Contributions to AnkiDroid, including bug fixes and backwards compatibility towards older Android Versions.
-### 🏆 Achievements
-
-- **Codeforces Expert (1752)**
-- **Open-Source Contributor**
----
 
 ### 📫 Connect with Me
 
@@ -78,7 +61,3 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="tilebreaker.svg" alt="Tile Breaker (SVG Animation)" width="400px" />
-</p>
