@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal_Engine-282C34?logo=unrealengine" />
   <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva" />
 </p>
 
