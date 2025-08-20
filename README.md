@@ -9,6 +9,12 @@
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7D5&center=true&vCenter=true&width=800&lines=App+Developer;Game+Developer;Software+Developer;Open+Source+Contributor+%F0%9F%9A%80;Tech+Enthusiast+and+Problem+Solver;Final+Year+Student+at+LNMIIT" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
